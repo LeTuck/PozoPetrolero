@@ -1,4 +1,4 @@
-# PozoPetrolero [![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SuB2fOQbp8LvQD6wvcRMXYBUBVWPSD1x/view?usp=sharing)(https://colab.research.google.com/drive/1SuB2fOQbp8LvQD6wvcRMXYBUBVWPSD1x#scrollTo=5N9-2csQTUT8)
+# PozoPetrolero [![GoogleColab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SuB2fOQbp8LvQD6wvcRMXYBUBVWPSD1x#scrollTo=5N9-2csQTUT8)
 ## La compañía de extracción de petróleo OilyGiant quiere encontrar los mejores lugares donde abrir 200 pozos nuevos de petróleo.
 ## Se debe crear un modelo que ayude a elegir la región con el mayor margen de beneficio.
 
